@@ -1,5 +1,6 @@
 # Open–closed principle
-Typescript exercise for the BeCode webdevelopment course. Improved the old typescript file (also in this repository) based on SOLID's Open-closed principle.
+Typescript exercise for the BeCode webdevelopment course. Improved the old typescript file (also in this repository) based on SOLID's Open-closed principle.<br>
+Link: https://jelle-vdp.github.io/typescript-open-closed-principle/
 
 
 ## About the OC principle
